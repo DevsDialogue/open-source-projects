@@ -1,2 +1,2 @@
-# open-source
-All about open source
+![open-source-projects](./Assets/open-source-projects-poster.png)
+
